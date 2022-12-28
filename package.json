@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:producer": "node ./producer/producer.js",
+    "start:consumer": "node ./consumer/consumer.js",
+    "start:consumer1": "node ./consumer/consumer1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "amqp-connection-manager": "^4.1.9",
+    "rabbitmq": "^0.0.2"
+  }
+}
