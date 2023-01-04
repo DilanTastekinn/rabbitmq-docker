@@ -17,7 +17,7 @@ _Rabbitmq kullanım alanları_
   kullanmanın avantajı ile mesaj rabbitmq ya bırakılır ilgili yer alana
   kadar saklanır beklenir ve veri kaybolmamış olur.)
 
-![Alt text](/home/dilan/Pictures/Screenshots/Screenshot from 2023-01-04 16-10-22.png)
+![Alt text](/home/dilan/Pictures/Screenshots/)
 
 Producer tarafından gönderilen mesajın özelliklerine bakarak hangi kuyruğa gönderilmesi gerektiğine **exchange** Routing özelliklerine bakarak karar verir.
 Chanel mesajın consumer a ulaşıp ulaşmadığı bilgisini verir.
